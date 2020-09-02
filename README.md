@@ -1,2 +1,2 @@
 # hwid
- get hardware profile info with C++
+ get hardware profile info and PC name with C++
